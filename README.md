@@ -17,7 +17,8 @@ As a dedicated software engineering student, I am passionate about continuous le
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikark&layout=compact&theme=tokyonight&langs_count=5)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomikark&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhoomikark&theme=highcontrast)
+
 
 ---
 
