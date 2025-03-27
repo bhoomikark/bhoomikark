@@ -6,14 +6,14 @@ As a dedicated software engineering student, I am passionate about continuous le
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/bhoomika-r-k-a02a10263)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhoomika-r-k-a02a10263)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/bhoomikark)
 
 ---
 
 ## 📊 GitHub Stats
-![RK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![RK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoomikark&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikark&layout=compact&theme=tokyonight&langs_count=5)
 
