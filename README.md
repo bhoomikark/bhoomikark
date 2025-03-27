@@ -12,7 +12,7 @@ As a dedicated software engineering student, I am passionate about continuous le
 
 ---
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/bhoomikaraksxg/)
-[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Profile-FD7014?style=for-the-badge&logo=codingninjas&logoColor=white)])
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Profile-FD7014?style=for-the-badge&logo=codingninjas&logoColor=white)]
 
 
 ## 📊 GitHub Stats
