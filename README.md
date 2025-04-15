@@ -14,8 +14,6 @@ As a dedicated software engineering student, I am passionate about continuous le
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/bhoomikaraksxg/)
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Profile-FD7014?style=for-the-badge)](https://www.naukri.com/code360/profile/bef32e52-eb11-43c1-afc9-df25e467aa56)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhoomikark&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 ## 📊 GitHub Stats
 ![RK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoomikark&show_icons=true&theme=radical)
