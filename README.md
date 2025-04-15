@@ -34,5 +34,4 @@ As a dedicated software engineering student, I am passionate about continuous le
 
 ---
 
-## ✨ Fun Fact
-I love working on **unique ML projects** and enjoy blending **technology with creativity**. If you're into **Machine Learning, UI/UX, or Backend Development**, let's connect! 🚀
+
