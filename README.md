@@ -22,6 +22,18 @@ As a dedicated software engineering student, I am passionate about continuous le
 
 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhoomikark&theme=radical)
+
+---
+
+## 📈 Top Languages by Repo & Commit
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILAPATILMP&layout=donut&theme=radical" width="45%"/>
+</p>
+
+
+
 
 ---
 
