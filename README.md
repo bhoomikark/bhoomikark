@@ -50,9 +50,8 @@ As a dedicated software engineering student, I am passionate about continuous le
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Working.gif" width="300"/>
 </p>
 
 <p align="center">
@@ -84,13 +83,7 @@ As a dedicated software engineering student, I am passionate about continuous le
 - Working on a backend project combining **Java + MySQL**.
 - Will update more repositories with what I learn.
 
-  <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat-square" alt="profile views"/>
-</p>
+ 
 
 ---
 
