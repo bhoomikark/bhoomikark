@@ -89,7 +89,7 @@ As a dedicated software engineering student, I am passionate about continuous le
 
 ## 📬 Contact Me
 
-- GitHub: [https://github.com/your-github-username](https://github.com/bhoomikark)  
+- GitHub: [https://github.com/your-github-bhoomikark](https://github.com/bhoomikark)  
 - Email: [bhoomikarabballige@gmail.com]  
 - LinkedIn: [https://www.linkedin.com/in/bhoomika-r-k-a02a10263/]
 
