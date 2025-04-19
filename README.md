@@ -3,6 +3,11 @@
 ## 🚀 About Me
 As a dedicated software engineering student, I am passionate about continuous learning and honing my skills in various technologies. I have been currently learning C++ and Java while working as a Full Stack Development Intern. My programming expertise includes C++, Java with a strong interest in backend development. Additionally, I am actively solving coding problems on various coding platforms to enhance my problem-solving skills. Eager to contribute to the ever-evolving tech landscape. 📖✨
 
+- I enjoy working with **Java** and learning how things work behind the scenes.
+- I’m focused on **backend development**.
+
+  
+
 ---
 
 ## 🔗 Connect with Me
@@ -29,7 +34,7 @@ As a dedicated software engineering student, I am passionate about continuous le
 ## 📈 Top Languages by Repo & Commit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILAPATILMP&layout=donut&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikark&layout=donut&theme=radical" width="45%"/>
 </p>
 
 
@@ -45,5 +50,58 @@ As a dedicated software engineering student, I am passionate about continuous le
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-bhoomikark&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-bhoomikark" />
+</p>
+
+## 📚 What I Have Learned in Java
+
+- Covered all **OOPs concepts**:
+  - Inheritance, Polymorphism, Abstraction, Encapsulation
+  - Method Overriding, Method Overloading, Constructor Chaining
+  - Type Casting and Object class methods: `equals()`, `hashCode()`, `toString()`, etc.
+ 
+## 💼 Backend Skills
+
+- Currently learning:
+  - **Servlets**
+  - **JDBC**
+  - **MySQL**
+ 
+## 📁 My GitHub Repositories
+
+- I have uploaded what I’ve learned and implemented.
+- Topics include OOPs, Java logic building, and backend basics.
+- More implementations are in progress — check out the repos section!
+
+## 🔄 What's Next
+
+- Working on a backend project combining **Java + MySQL**.
+- Will update more repositories with what I learn.
+
+  <p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat-square" alt="profile views"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+- GitHub: [https://github.com/your-github-username](https://github.com/bhoomikark)  
+- Email: [bhoomikarabballige@gmail.com]  
+- LinkedIn: [https://www.linkedin.com/in/bhoomika-r-k-a02a10263/]
+
+
+
+
 
 
