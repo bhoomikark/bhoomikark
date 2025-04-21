@@ -3,7 +3,7 @@
 ## 🚀 About Me
 As a dedicated software engineering student, I am passionate about continuous learning and honing my skills in various technologies. I have been currently learning C++ and Java while working as a Full Stack Development Intern. My programming expertise includes C++, Java with a strong interest in backend development. Additionally, I am actively solving coding problems on various coding platforms to enhance my problem-solving skills. Eager to contribute to the ever-evolving tech landscape. 📖✨
 
-- I enjoy working with **Java** and learning how things work behind the scenes.
+- I enjoy working with **Java** and learning how things work behind the scenes
 - I’m focused on **backend development**.
 
   
